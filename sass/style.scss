@@ -1,0 +1,38 @@
+.navbar-nav li a{
+	font-family: 'Bold';
+	font-size: calc(1vw + 1vh + 3px);
+	color: #2c2929;
+}
+.top-part{
+	h1{
+		font-family: 'Medium';
+		font-size: calc(2vw + 2vh + 12px);
+	}
+	p{
+		font-family: 'Regular';
+		font-size: calc(1vw + 1vh + 3px);
+		opacity: 0.7
+	}
+}
+.bottom-part{
+	h1{
+		font-family: 'Medium';
+		font-size: 26px;
+		letter-spacing: 0.52px;
+	}
+	p{
+		font-family: 'Regular';
+		font-size: 18px;
+		opacity: 0.7;
+		letter-spacing: 0.36px;
+	}
+}
+.footer-part{
+	p{
+		a{
+			font-family: 'Regular';
+			text-decoration: none;
+			color: white;
+		}
+	}
+}

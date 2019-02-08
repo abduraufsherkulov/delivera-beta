@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Regular";
+  src: url("../fonts/GoogleSans-Regular.ttf");
+}
+@font-face {
+  font-family: "Medium";
+  src: url("../fonts/GoogleSans-Medium.ttf");
+}
+@font-face {
+  font-family: "Bold";
+  src: url("../fonts/GoogleSans-Bold.ttf");
+}
+
+/*# sourceMappingURL=font.css.map */

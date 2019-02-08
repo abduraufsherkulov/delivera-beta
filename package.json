@@ -1,0 +1,26 @@
+{
+	"name": "delivera-web",
+	"version": "1.0.0",
+	"description": "Simple Teaser App",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name" : "Abdurauf Sherkulov",
+		"url" : "deadline.uz"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"bootstrap": "^4.2.1",
+		"jquery": "^3.3.1",
+		"popper.js": "^1.14.7"
+	},
+	"devDependencies": {
+		"grunt": "^1.0.3",
+		"grunt-contrib-concat": "^1.0.1",
+		"grunt-contrib-cssmin": "^3.0.0",
+		"grunt-contrib-sass": "^1.0.0",
+		"grunt-contrib-watch": "^1.1.0"
+	}
+}
